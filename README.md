@@ -23,18 +23,31 @@ It consumes real-time data from an API and allows users to filter and select ski
 
 ---
 
-##  Features
+##  Features  | Improvements
 
-* **Dynamic Filtering** by:
+* **Improved Breadcrumb Navigation**:
+  * Enhanced responsiveness for better user experience.
 
-  * Price range
-  * Yard size
-  * Hire duration (weeks)
-* **Live price calculation** (base + VAT + transport + tonne cost)
-* **Responsive layout** for mobile and desktop
-* **Sticky action bar** for selected item summary
-* **Fallback UI** for empty results or no selection
-* **Supabase integration** for hosting skip images
+* **Dynamic Filtering**:
+  * Filter by price range, yard size, and hire duration (weeks).
+
+* **Hover Effects for Cards**:
+  * Added zoom effect on hover for better interactivity.
+
+* **Live Price Calculation**:
+  * Includes base price, VAT, transport cost, and tonne cost.
+
+* **Responsive Layout**:
+  * Optimized for both mobile and desktop devices.
+
+* **Sticky Action Bar**:
+  * Displays summary of the selected item.
+
+* **Fallback UI**:
+  * Provides a message or placeholder when no results match the filters.
+
+* **Supabase Integration**:
+  * Used for hosting skip images seamlessly.
 
 ---
 

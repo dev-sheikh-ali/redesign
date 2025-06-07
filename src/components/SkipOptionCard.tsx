@@ -33,7 +33,7 @@ export default function SkipOptionCard({ skip, selectedId, onSelect }: SkipOptio
 
   return (
     <div
-      className={`relative flex flex-col justify-between rounded-xl border-2 p-4 bg-gray-800 shadow-md transition-all
+      className={`relative flex flex-col justify-between rounded-xl border-2 p-4 bg-gray-800 shadow-md transition-transform transform hover:scale-105
         ${isSelected ? "border-blue-600 ring-2 ring-blue-300" : "border-gray-700"}
         ${isSelectable ? "cursor-pointer hover:border-blue-500" : "cursor-not-allowed opacity-70"}
       `}
