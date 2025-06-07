@@ -13,11 +13,11 @@
 
 This project reimagines the user interface and user experience of the skip size selection page. It retains the original functionality, while offering an optimized, mobile-first design built with:
 
-* ![React Logo](./src/assets/react.svg) **React**
-* ![Tailwind CSS Logo](./src/assets/tailwindcss.svg) **Tailwind CSS**
-* ![TypeScript Logo](./src/assets/TypeScript.svg) **TypeScript**
-* ![Vite Logo](./src/assets/Vite.js.svg) **Vite**
-* ![Supabase Logo](./src/assets/supabase-logo-icon.svg) **Supabase** (image hosting)
+* <img src="./src/assets/react.svg" alt="React Logo" width="20" height="20" /> **React**
+* <img src="./src/assets/tailwindcss.svg" alt="Tailwind CSS Logo" width="20" height="20" /> **Tailwind CSS**
+* <img src="./src/assets/TypeScript.svg" alt="TypeScript Logo" width="20" height="20" /> **TypeScript**
+* <img src="./src/assets/Vite.js.svg" alt="Vite Logo" width="20" height="20" /> **Vite**
+* <img src="./src/assets/supabase-logo-icon.svg" alt="Supabase Logo" width="20" height="20" /> **Supabase** (image hosting)
 
 It consumes real-time data from an API and allows users to filter and select skip options with detailed price breakdowns.
 
@@ -129,8 +129,8 @@ The returned data includes:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/skip-selection-redesign.git
-cd skip-selection-redesign
+git clone https://github.com/dev-sheikh-ali/redesign.git
+cd redesign
 ```
 
 ### 2. Install Dependencies
@@ -145,7 +145,7 @@ npm install
 npm run dev
 ```
 
-Visit `http://localhost:3000`.
+Visit `http://localhost:PORT`.
 
 ---
 
