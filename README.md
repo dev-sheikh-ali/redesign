@@ -5,7 +5,7 @@
 ---
 ## 🌍 Live Demo
 
-👉 [View Live Site](https://your-demo-url.com)
+👉 [View Live Site](https://redesign-2zksmiix8-devsheikhalis-projects.vercel.app/)
 
 ---
 
@@ -34,9 +34,6 @@ It consumes real-time data from an API and allows users to filter and select ski
 * **Hover Effects for Cards**:
   * Added zoom effect on hover for better interactivity.
 
-* **Live Price Calculation**:
-  * Includes base price, VAT, transport cost, and tonne cost.
-
 * **Responsive Layout**:
   * Optimized for both mobile and desktop devices.
 
@@ -47,7 +44,7 @@ It consumes real-time data from an API and allows users to filter and select ski
   * Provides a message or placeholder when no results match the filters.
 
 * **Supabase Integration**:
-  * Used for hosting skip images seamlessly.
+  * Used for hosting skip images seamlessly. i noticed this is what was used in th template from the image urls 
 
 ---
 
