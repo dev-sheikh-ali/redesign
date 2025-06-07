@@ -3,8 +3,9 @@
 > A modern, responsive redesign of the **"Choose Your Skip Size"** page from [WeWantWaste](https://wewantwaste.co.uk/), with improved UX and clean React architecture.
 
 ---
+## 🌍 Live Demo
 
-![Preview of Skip Selection UI](./src/assets/screenshot.png)
+👉 [View Live Site](https://your-demo-url.com)
 
 ---
 
@@ -13,10 +14,10 @@
 This project reimagines the user interface and user experience of the skip size selection page. It retains the original functionality, while offering an optimized, mobile-first design built with:
 
 * ![React Logo](./src/assets/react.svg) **React**
-* ![Tailwind CSS Logo](https://tailwindcss.com/_next/static/media/tailwindcss-mark.1b8a0a3f.svg) **Tailwind CSS**
-* ![TypeScript Logo](https://www.typescriptlang.org/assets/images/icons/favicon-32x32.png) **TypeScript**
-* ![Vite Logo](./public/vite.svg) **Vite**
-* ![Supabase Logo](https://supabase.com/_next/static/images/favicon-32x32.png) **Supabase** (image hosting)
+* ![Tailwind CSS Logo](./src/assets/tailwindcss.svg) **Tailwind CSS**
+* ![TypeScript Logo](./src/assets/TypeScript.svg) **TypeScript**
+* ![Vite Logo](./src/assets/Vite.js.svg) **Vite**
+* ![Supabase Logo](./src/assets/supabase-logo-icon.svg) **Supabase** (image hosting)
 
 It consumes real-time data from an API and allows users to filter and select skip options with detailed price breakdowns.
 
